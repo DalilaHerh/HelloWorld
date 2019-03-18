@@ -9,6 +9,7 @@ import java.awt.*;
 public class Controller {
     @FXML private Label labelica;
     public void HelloWorld(ActionEvent actionEvent) {
-        labelica.setText("Hello World");
+        labelica.setText("Hello World   ");
     }
 }
+    
