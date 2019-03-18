@@ -1,0 +1,21 @@
+.root {
+    -fx-background-color: gold;
+}
+.label {
+    -fx-font-size: 20;
+}
+
+.root {
+    -fx-background-color: red;
+}
+
+.button {
+    -fx-background-color: grey;
+
+}
+
+.label {
+    -fx-font-size: 20;
+    -fx-text-fill: black;
+}
+

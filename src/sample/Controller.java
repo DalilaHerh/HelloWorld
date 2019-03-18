@@ -12,4 +12,3 @@ public class Controller {
         labelica.setText("Hello World   ");
     }
 }
-    
